@@ -2,6 +2,11 @@
 This project focuses on building a data-driven sales forecasting and inventory intelligence solution for a jewellery brand using Power BI.
 # 💎 Jewellery Sales Forecasting & Demand Intelligence | Power BI
 
+## 📊 Dashboard Preview
+
+![Dashboard Overview](images/dashboard_overview.png)
+
+
 ## 📌 Project Overview
 This project presents an **end-to-end Business Intelligence solution** built using **Power BI** for a **jewellery brand**, focused on **sales forecasting, product demand analysis, and reorder intelligence**.
 
