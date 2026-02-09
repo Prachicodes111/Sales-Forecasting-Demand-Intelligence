@@ -4,7 +4,7 @@ This project focuses on building a data-driven sales forecasting and inventory i
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](dashboard_overview.png)
 
 
 ## 📌 Project Overview
